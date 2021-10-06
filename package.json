@@ -1,5 +1,5 @@
 {
-  "homepage": "http://nurnadiahazhar.github.io/porfolio",
+  "homepage": "http://nurnadiahazhar.github.io/project",
   "name": "gatsby-starter-hello-world",
   "private": true,
   "description": "A simplified bare-bones starter for Gatsby",
@@ -56,10 +56,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+    "url": "http://nurnadiahazhar.github.io/project"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "http://nurnadiahazhar.github.io/project"
   },
   "husky": {
     "hooks": {
