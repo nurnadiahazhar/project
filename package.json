@@ -56,10 +56,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://nurnadiahazhar.github.io/project"
+    "url": "https://github.com/nurnadiahazhar/project"
   },
   "bugs": {
-    "url": "http://nurnadiahazhar.github.io/project"
+    "url": "https://github.com/nurnadiahazhar/project"
   },
   "husky": {
     "hooks": {
